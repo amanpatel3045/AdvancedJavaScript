@@ -1,3 +1,3 @@
-# == Abstract Equality
+# == Abstract Equality => checks value
 
-# === Strict Equality
+# === Strict Equality => checks value with data type
